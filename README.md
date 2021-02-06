@@ -11,7 +11,7 @@ Working on migration to Pytorch 1.0, stay tuned!
 ## 内容
 
 该书（教程/仓库）的内容如图所示：
-![思维导图](imgs/mindmap.png)
+![思维导图1](imgs/mindmap.png)
 
 可以看出本教程可以分为两部分：
 
